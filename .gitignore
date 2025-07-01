@@ -1,0 +1,23 @@
+# Entorno virtual
+.venv/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de entorno o secretos
+.env
+
+# Archivos de sistema
+.DS_Store
+
+# Salidas de pytest
+.cache/
